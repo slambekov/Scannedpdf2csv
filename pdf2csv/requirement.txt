@@ -1,0 +1,6 @@
+imutils
+opencv-python
+pytesseract
+pandas
+numpy
+pdf2image
